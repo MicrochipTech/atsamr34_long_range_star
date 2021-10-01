@@ -1,0 +1,14 @@
+LoRa Star revision history:
+
+1.00	Initial release based on LoRa P2P v1.05 which include MLS_1_0_5 as Lib
+
+1.01	Fixed stability issue 
+		Periodic TX implementation from End Device to only PAN CORDINATOR
+		
+
+
+
+		
+
+
+
